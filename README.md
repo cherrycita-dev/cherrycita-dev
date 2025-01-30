@@ -10,12 +10,17 @@
 
 ### 🌸 About Me
 
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-
-💻 **AI Engineering Student** | 🎨 **Creative Coder** | 🌱 **Lifelong Learner**  
-✨ Passionate about Frontend, Artificial Intelligence, and Aesthetic Design.
-
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+<div align="left" style="display: flex; align-items: center;">
+  <div>
+    ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+    
+    💻 **AI Engineering Student** | 🎨 **Creative Coder** | 🌱 **Lifelong Learner**  
+    ✨ Passionate about Frontend, Artificial Intelligence, and Aesthetic Design.
+    
+    ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+  </div>
+  <img src="https://i.pinimg.com/originals/6e/21/3d/6e213d9d5039e4ec5ed2f40fbd55df7f.gif" alt="Cute anime gif" width="200" style="margin-left: 20px;">
+</div>
 
 ---
 
@@ -36,9 +41,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=sakura&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&langs_count=7&theme=sakura"/>
+<div align="center" style="background-color:#0d1117; padding:15px; border-radius:10px;">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
