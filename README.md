@@ -32,11 +32,7 @@
 
 <p align="center">
 
-<picture>
-  <source media="(max-width: 400px)" srcset="hanako-kun-fem-hanako-small.gif">
-  <source media="(max-width: 1200px)" srcset="hanako-kun-fem-hanako-medium.gif">
-  <img src="hanako-kun-fem-hanako.gif" alt="banner"">
-</picture>
+ <img src="hanako-kun-fem-hanako.gif" alt="banner">
  
  </p>
 
