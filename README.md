@@ -1,56 +1,55 @@
-# 🌸 Bienvenid@ a mi perfil 🌸  
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hola!+Soy+BlossomingAngst!;Bienvenid@+a+mi+GitHub!;Apasionada+por+la+IA+y+el+desarrollo+web+%E2%9C%A8;Explorando+nuevas+tecnologías+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&width=435&lines=Hello+there!+I'm+CherryCita.;Welcome+to+my+GitHub+profile!+"/>
 </p>
 
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧  
-
-## ✨ Sobre mí  
-🌟 **Estudiante de Ingeniería en Inteligencia Artificial en el IPN**  
-💻 Me apasiona la programación, el diseño web y la IA  
-📚 Fan de la ciencia ficción y el romance (*Los Juegos del Hambre* ❤️)  
-🎮 Juego **Osu, LoL, Celeste y más** en mi tiempo libre  
-
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧  
-
-## 🚀 Tecnologías y herramientas  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,github,git,vscode" />
+  <img src="https://i.pinimg.com/originals/3e/bb/69/3ebb69e1c64f6372eaf83b999cfebd9b.gif" alt="Anime gif" width="250">
 </p>
 
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧  
+---
 
-## 📊 Lenguajes más utilizados  
+### 🌸 About Me
+
+✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+
+💻 **AI Engineering Student** | 🎨 **Creative Coder** | 🌱 **Lifelong Learner**  
+✨ Passionate about Frontend, Artificial Intelligence, and Aesthetic Design.
+
+✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+
+---
+
+### 🛠️ Technologies & Tools
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" width="45"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45">
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=sakura&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&langs_count=7&theme=sakura"/>
+</div>
+
+---
+
+### 📫 Contact
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlossomingAngst&layout=compact&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/cherrycita" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:cherrycita.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧  
-
-## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlossomingAngst&show_icons=true&theme=tokyonight" />
+  🌸 *Let’s create something beautiful together!* 🌸
 </p>
-
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧  
-
-## 🌸 Proyectos Destacados  
-📌 [**Portafolio Web**](https://github.com/BlossomingAngst/portafolio)  
-📌 [**Clon de Pinterest**](https://github.com/BlossomingAngst/pinterest-clone)  
-
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧  
-
-## 📫 Conéctate conmigo  
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧  
-
-![Footer](https://i.gifer.com/4ORi.gif) <!-- GIF Estético -->
