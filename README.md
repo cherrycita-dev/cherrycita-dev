@@ -16,8 +16,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/cherrycita-dev">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&bg_color=0d1117&title_color=895c6a&text_color=a7858f&icon_color=c4adb4&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&langs_count=7&bg_color=0d1117&title_color=895c6a&text_color=a7858f&icon_color=c4adb4"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&bg_color=0d1117&title_color=895c6a&text_color=a7858f&icon_color=c4adb4&include_all_commits=true&count_private=true"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&langs_count=7&bg_color=0d1117&title_color=895c6a&text_color=a7858f&icon_color=c4adb4"/>
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 ![Sakura](https://64.media.tumblr.com/tumblr_m1vavydJ9N1qbbbd2o1_500.gif)
 <p align="center">
 
- <img src="hanako-kun-fem-hanako.gif" alt="Banner">
+ <img src="hanako-kun-fem-hanako.gif" alt="banner">
  
  </p>
 
