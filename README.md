@@ -1,6 +1,7 @@
-
 # 🌸 <span align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E8A2A8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Cherrycita!;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8A2A8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Cherrycita!;Welcome+to+my+GitHub!;I+love+Frontend+Development!" alt="Typing SVG" />
+  </a>
 </span> 🌸
 
 I'm passionate about frontend development, technology, and creating beautiful digital experiences.
@@ -19,8 +20,8 @@ I'm passionate about frontend development, technology, and creating beautiful di
 ## 🌸 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&theme=rose_pine" alt="Most Used Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&theme=rose_pine" alt="Most Used Languages" width="48%"/>
 </p>
 
 ## 🌷 Aesthetic Touch
