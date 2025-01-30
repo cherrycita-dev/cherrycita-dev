@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=915C66&width=435&lines=Hi%2C+everyone!+I'm+cherrycita-dev.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 
-## 🌿 Technologies and tools:
+## ₊˚ʚ 🌱 Technologies and tools: ₊˚✧ﾟ. 
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -12,7 +12,7 @@
 </p>
 
 
-## 🌸 GitHub Stats
+## 𓍢ִ໋ ☕️ GitHub Stats ✧˚ ༘ ⋆
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/cherrycita-dev">
@@ -22,14 +22,21 @@
 </div>
 
 
-## 🌷 Aesthetic Touch
-
 ![Sakura](https://64.media.tumblr.com/tumblr_m1vavydJ9N1qbbbd2o1_500.gif)
+<p align="center">
 
+ <img src="hanako-kun-fem-hanako.gif" alt="Banner">
+ 
+ </p>
 
-## 🌸 Contact me
+ 
+## 𓏲๋࣭࣪˖ Contact me 🎐
+
 
 <div> 
+  <p align="center">
   <a href="https://www.linkedin.com/in/nancy-p%C3%A9rez-392916290/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-915C66?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:pereznancyesmeralda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CCAEB1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 </div>
+
