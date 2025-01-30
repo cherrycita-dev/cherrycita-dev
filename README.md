@@ -41,9 +41,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="background-color:#0d1117; padding:15px; border-radius:10px;">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center" style="background-color:#1E1E1E; padding:15px; border-radius:10px;">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=graywhite&icon_color=FFB6C1&title_color=FFB6C1&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&langs_count=7&theme=graywhite&title_color=FFB6C1"/>
 </div>
 
 ---
