@@ -1,4 +1,4 @@
-```md
+
 # 🌸 Hi, everyone! I'm Cherrycita 🌸
 
 Welcome to my GitHub! I'm passionate about frontend development, technology, and creating beautiful digital experiences.
@@ -43,4 +43,3 @@ Welcome to my GitHub! I'm passionate about frontend development, technology, and
 
 🌺 [LinkedIn](https://www.linkedin.com/in/cherrycita-dev) | 🌿 [Portfolio](https://cherrycita.dev) | 📩 [Email](mailto:cherrycita.dev@gmail.com)
 
-```
