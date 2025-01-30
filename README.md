@@ -1,60 +1,44 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&width=435&lines=Hello+there!+I'm+CherryCita.;Welcome+to+my+GitHub+profile!+"/>
-</p>
+# 🌸 Hi, everyone! I'm Cherrycita 🌸
+
+Welcome to my GitHub! I'm passionate about frontend development, technology, and creating beautiful digital experiences.
+
+---
+
+## 🌿 Technologies and tools:
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3e/bb/69/3ebb69e1c64f6372eaf83b999cfebd9b.gif" alt="Anime gif" width="250">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
 ---
 
-### 🌸 About Me
-
-<div align="left" style="display: flex; align-items: center;">
-  <div>
-    ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-    
-    💻 **AI Engineering Student** | 🎨 **Creative Coder** | 🌱 **Lifelong Learner**  
-    ✨ Passionate about Frontend, Artificial Intelligence, and Aesthetic Design.
-    
-    ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-  </div>
-  <div class="tenor-gif-embed" data-postid="856492309132448912" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/hanako-kun-fem-hanako-girl-hanako-tbhk-jshk-gif-856492309132448912">Hanako Kun Fem Hanako GIF</a>from <a href="https://tenor.com/search/hanako+kun-gifs">Hanako Kun GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
-
----
-
-### 🛠️ Technologies & Tools
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" width="45"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45">
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center" style="background-color:#1E1E1E; padding:15px; border-radius:10px;">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=graywhite&icon_color=FFB6C1&title_color=FFB6C1&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&langs_count=7&theme=graywhite&title_color=FFB6C1"/>
-</div>
-
----
-
-### 📫 Contact
+## 🌸 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cherrycita" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:cherrycita.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=rose_pine" alt="GitHub Stats"/>
 </p>
 
+---
+
+## 🎨 Most Used Languages
+
 <p align="center">
-  🌸 *Let’s create something beautiful together!* 🌸
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&theme=rose_pine" alt="Most Used Languages"/>
 </p>
+
+---
+
+## 🌷 Aesthetic Touch
+
+![Sakura](https://64.media.tumblr.com/tumblr_m1vavydJ9N1qbbbd2o1_500.gif)
+
+---
+
+## 🌸 Contact me
+
+🌺 [LinkedIn](https://www.linkedin.com/in/cherrycita-dev) | 🌿 [Portfolio](https://cherrycita.dev) | 📩 [Email](mailto:cherrycita.dev@gmail.com)
