@@ -1,6 +1,9 @@
+```md
 # 🌸 Hi, everyone! I'm Cherrycita 🌸
 
 Welcome to my GitHub! I'm passionate about frontend development, technology, and creating beautiful digital experiences.
+
+꒪   ۫ ⁎   ⊹₊┈ㆍ┈ㆍ┈ㆍ୨୧ㆍ┈ㆍ┈ㆍ┈₊⊹  ꒪   ۫ ⁎
 
 ---
 
@@ -17,28 +20,27 @@ Welcome to my GitHub! I'm passionate about frontend development, technology, and
 
 ---
 
-## 🌸 GitHub Stats
+## 🌸 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=rose_pine" alt="GitHub Stats"/>
-</p>
-
----
-
-## 🎨 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&theme=rose_pine" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&theme=rose_pine" alt="Most Used Languages" width="48%"/>
 </p>
 
 ---
 
 ## 🌷 Aesthetic Touch
 
-![Sakura](https://64.media.tumblr.com/tumblr_m1vavydJ9N1qbbbd2o1_500.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Sakura GIF">
+</p>
+
+꒪   ۫ ⁎   ⊹₊┈ㆍ┈ㆍ┈ㆍ୨୧ㆍ┈ㆍ┈ㆍ┈₊⊹  ꒪   ۫ ⁎
 
 ---
 
 ## 🌸 Contact me
 
 🌺 [LinkedIn](https://www.linkedin.com/in/cherrycita-dev) | 🌿 [Portfolio](https://cherrycita.dev) | 📩 [Email](mailto:cherrycita.dev@gmail.com)
+
+```
