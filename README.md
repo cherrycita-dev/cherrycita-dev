@@ -19,7 +19,7 @@
     
     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
   </div>
-  <img src="https://i.pinimg.com/originals/6e/21/3d/6e213d9d5039e4ec5ed2f40fbd55df7f.gif" alt="Cute anime gif" width="200" style="margin-left: 20px;">
+  <img src="[https://i.pinimg.com/originals/6e/21/3d/6e213d9d5039e4ec5ed2f40fbd55df7f.gif](https://tenor.com/bbqUhzrbYYe.gif)" alt="Cute anime gif" width="200" style="margin-left: 20px;">
 </div>
 
 ---
