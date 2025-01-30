@@ -19,7 +19,7 @@
     
     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
   </div>
-  <img src="[https://i.pinimg.com/originals/6e/21/3d/6e213d9d5039e4ec5ed2f40fbd55df7f.gif](https://tenor.com/bbqUhzrbYYe.gif)" alt="Cute anime gif](https://tenor.com/bbqUhzrbYYe.gif)" width="200" style="margin-left: 20px;">
+  <div class="tenor-gif-embed" data-postid="856492309132448912" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/hanako-kun-fem-hanako-girl-hanako-tbhk-jshk-gif-856492309132448912">Hanako Kun Fem Hanako GIF</a>from <a href="https://tenor.com/search/hanako+kun-gifs">Hanako Kun GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ---
