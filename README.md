@@ -2,17 +2,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=915C66&width=435&lines=Hi%2C+everyone!+I'm+cherrycita-dev.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 
-## ₊˚ʚ 🌱 Technologies and tools: ₊˚✧ﾟ. 
+### ₊˚ʚ 🌱 Technologies and tools: ₊˚✧ﾟ. 
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
   
 </p>
 
 
-## 𓍢ִ໋ ☕️ GitHub Stats ✧˚ ༘ ⋆
+### 𓍢ִ໋ ☕️ GitHub Stats ✧˚ ༘ ⋆
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/cherrycita-dev">
@@ -22,15 +28,18 @@
 </div>
 
 
-![Sakura](https://64.media.tumblr.com/tumblr_m1vavydJ9N1qbbbd2o1_500.gif)
 <p align="center">
 
- <img src="hanako-kun-fem-hanako.gif" alt="banner">
+<picture>
+  <source media="(max-width: 600px)" srcset="hanako-kun-fem-hanako-small.gif">
+  <source media="(max-width: 1200px)" srcset="hanako-kun-fem-hanako-medium.gif">
+  <img src="hanako-kun-fem-hanako.gif" alt="banner">
+</picture>
  
  </p>
 
  
-## 𓏲๋࣭࣪˖ Contact me 🎐
+### 𓏲๋࣭࣪˖ Contact me 🎐
 
 
 <div> 
