@@ -1,11 +1,9 @@
 
-# 🌸 Hi, everyone! I'm Cherrycita 🌸
+# 🌸 <span align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E8A2A8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Cherrycita!;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</span> 🌸
 
-Welcome to my GitHub! I'm passionate about frontend development, technology, and creating beautiful digital experiences.
-
-꒪   ۫ ⁎   ⊹₊┈ㆍ┈ㆍ┈ㆍ୨୧ㆍ┈ㆍ┈ㆍ┈₊⊹  ꒪   ۫ ⁎
-
----
+I'm passionate about frontend development, technology, and creating beautiful digital experiences.
 
 ## 🌿 Technologies and tools:
 
@@ -18,16 +16,12 @@ Welcome to my GitHub! I'm passionate about frontend development, technology, and
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
----
-
 ## 🌸 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&theme=rose_pine" alt="Most Used Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&theme=rose_pine" alt="Most Used Languages" width="45%"/>
 </p>
-
----
 
 ## 🌷 Aesthetic Touch
 
@@ -35,11 +29,6 @@ Welcome to my GitHub! I'm passionate about frontend development, technology, and
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Sakura GIF">
 </p>
 
-꒪   ۫ ⁎   ⊹₊┈ㆍ┈ㆍ┈ㆍ୨୧ㆍ┈ㆍ┈ㆍ┈₊⊹  ꒪   ۫ ⁎
-
----
-
 ## 🌸 Contact me
 
 🌺 [LinkedIn](https://www.linkedin.com/in/cherrycita-dev) | 🌿 [Portfolio](https://cherrycita.dev) | 📩 [Email](mailto:cherrycita.dev@gmail.com)
-
