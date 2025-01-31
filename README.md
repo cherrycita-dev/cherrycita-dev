@@ -1,7 +1,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=915C66&width=435&lines=Hi%2C+everyone!+I'm+cherrycita-dev.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="misa-uzamaid.gif" alt="Pixel Art" align="right" width="160">
+<img src="misa-uzamaid.gif" alt="Pixel Art" align="right" width="150">
 
 
 ### ₊˚ʚ 🌱 Technologies and tools: ₊˚✧ﾟ. 
@@ -24,8 +24,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/cherrycita-dev">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&bg_color=0d1117&title_color=895c6a&text_color=a7858f&icon_color=c4adb4&include_all_commits=true&count_private=true"/>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&langs_count=7&bg_color=0d1117&title_color=895c6a&text_color=a7858f&icon_color=c4adb4"/>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=cherrycita-dev&show_icons=true&bg_color=0d1117&title_color=895c6a&text_color=a7858f&icon_color=c4adb4&include_all_commits=true&count_private=true"/>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycita-dev&layout=compact&langs_count=7&bg_color=0d1117&title_color=895c6a&text_color=a7858f&icon_color=c4adb4"/>
   </a>
 </div>
 
