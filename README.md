@@ -42,8 +42,12 @@
 
 <div> 
   <p align="center">
+    <a href="https://cherrycita-dev.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portafolio-EAB0A5?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
   <a href="https://www.linkedin.com/in/nancy-p%C3%A9rez-392916290/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-915C66?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:pereznancyesmeralda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CCAEB1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+
+  </p>
 </div>
 
