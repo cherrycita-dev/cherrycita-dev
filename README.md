@@ -51,7 +51,7 @@
   <br>
 
   <p align="center">
-  <img src="hanako-kun-fem-hanako.gif" alt="banner" width="325">
+  <img src="hanako-kun-fem-hanako.gif" alt="banner" width="350">
   </p>
 
 
