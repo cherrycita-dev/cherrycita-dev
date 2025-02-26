@@ -55,7 +55,7 @@
   </p>
 
 
-  ### 𓏲๋࣭࣪˖ Contact me 🎐
+  ### ˖ Contact me 🎐
 
 <div> 
   <p align="center">
