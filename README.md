@@ -1,25 +1,66 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=915C66&width=600&lines=Hi%2C+everyone!+I'm+cherrycita-dev.+%F0%9F%8C%B8;AI+Engineering+Student;Curious+%C2%B7+Resilient+%C2%B7+Always+Learning+%F0%9F%8C%B1;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=915C66&width=600&lines=Hi%2C+everyone!+I'm+cherrycita-dev.+%F0%9F%8C%B8;AI+Engineering+Student+%F0%9F%A4%96;Curious+%C2%B7+Resilient+%C2%B7+Always+Learning;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 <img src="misa-uzamaid.gif" alt="Pixel Art" align="right" width="250"/>
 
 <br>
 
- **AI Engineering student** · 5th semester  
-🔍 Curious by nature, resilient by choice  
-💡 Passionate about learning, clean code & cozy aesthetics ✨  
-🌸 Building projects one commit at a time  
+⌨︎ AI Engineering student · 5th semester
+
+🔍 Curious by nature, resilient by choice
+
+💡 Passionate about learning, clean code & cozy aesthetics ✨
+
+🌸 Building projects one commit at a time
+
+📚 Sci-fi reader · The Hunger Games forever ✦ Occasional short story writer
+
+🎮 Gamer & music lover · BTS ARMY 💜
+
+🎯 Future: remote work in AI · pursuing a second degree someday
+
+<br>
+ 
+<p align="center">
+ 
+![](https://komarev.com/ghpvc/?username=cherrycita-dev&color=915C66&style=flat-square&label=visitors)
+ 
+</p>
+ 
+
+ 
+<div align="center">
+
+✦      ⋆｡‧˚      ✦     ⋆｡‧˚      ✦     ⋆｡‧˚
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=cherrycita-dev&color=915C66&style=flat-square&label=visitors)
+<table border="0">
+<tr>
+<td align="center" style="padding: 10px 30px;">
+💮
+</td>
+<td align="center">
 
-<br clear="right"/>
+*❝ Fall seven times, stand up eight. ❞*
 
----
+**— Japanese Proverb**
 
-> *"Fall seven times, stand up eight."* 🌱
+</td>
+<td align="center" style="padding: 10px 30px;">
+💮
+</td>
+</tr>
+</table>
 
----
+<br>
+
+✦      ⋆｡‧˚      ✦     ⋆｡‧˚      ✦     ⋆｡‧˚
+
+
+
+</div>
+
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Skills**
 
@@ -49,10 +90,12 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 
----
+
+<br>
 
 ### 𓍢ִ໋ ☕️ GitHub Stats ✧˚ ༘ ⋆
 
+---
 <div align="center">
 
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=cherrycita-dev&count_private=true&show_icons=true&include_all_commits=true&title_color=895c6a&icon_color=c4adb4&text_color=a7858f&bg_color=0d1117&border_color=5c2a35" width="420"/>
